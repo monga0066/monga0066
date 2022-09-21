@@ -9,7 +9,7 @@
 👨‍💻 All of my projects are available at <a href="monga0066.github.io"> monga0066.github.io</a>
 </p></li>
 <li><p align="left">
-📫 How to reach me <a>rahulmonga600@gmail.com</a>
+📫 How to reach me <a href="#">rahulmonga600@gmail.com</a>
 </p></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
