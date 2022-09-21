@@ -1,16 +1,17 @@
 <h1 align="center">A Passionate Full Stack Web Developer</h1>
 <div margin="auto"><img  src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30297150.jpg" alt="top"  /></div>
 
-
-<p align="left">
+<ul>
+<li><p align="left">
 🔭 I’m currently working full stack web development at masai school
-</p>
-<p align="left">
-👨‍💻 All of my projects are available at monga0066.github.io
-</p>
-<p align="left">
-📫 How to reach me rahulmonga600@gmail.com
-</p>
+</p></li>
+<li><p align="left">
+👨‍💻 All of my projects are available at <a href="monga0066.github.io"> monga0066.github.io</a>
+</p></li>
+<li><p align="left">
+📫 How to reach me <a>rahulmonga600@gmail.com</a>
+</p></li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="Linkdin" width="40" height="40" />
 
