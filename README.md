@@ -1,7 +1,7 @@
 <h1 align="center">A Passionate Full Stack Web Developer</h1>
 <div margin="auto"><img  src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30297150.jpg" alt="top"  /></div>
 
-<ul>
+<ul margin-top="20px">
 <li><p align="left">
 🔭 I’m currently working full stack web development at masai school
 </p></li>
