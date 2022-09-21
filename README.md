@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate full Stack Web developer from India</h3>
+<img src="https://tse4.mm.bing.net/th?id=OIP.utD25xYyCCAZ364xvgjagQHaEo&pid=Api&P=0" alt="Linkdin" />
+
+<h3 align="center">A passionate full Stack Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monga0066&label=Profile%20views&color=0e75b6&style=flat" alt="monga0066" /> </p>
 
@@ -8,6 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="Linkdin" width="40" height="40" />
 <p align="left">
 </p>
 
