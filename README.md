@@ -1,5 +1,5 @@
 <h1 align="center">A Passionate Full Stack Web Developer</h1>
-<img margin="auto" src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30297150.jpg" alt="top"  />
+<div margin="auto"><img  src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30297150.jpg" alt="top"  /></div>
 
 
 
