@@ -1,4 +1,4 @@
-<img src="https://tse4.mm.bing.net/th?id=OIP.utD25xYyCCAZ364xvgjagQHaEo&pid=Api&P=0" alt="Linkdin" width="100%" height="200px" />
+<img src="https://tse4.mm.bing.net/th?id=OIP.utD25xYyCCAZ364xvgjagQHaEo&pid=Api&P=0" alt="Linkdin" width="100%" height="300px" />
 
 <h3 align="center">A passionate full Stack Web developer</h3>
 
