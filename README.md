@@ -1,6 +1,7 @@
+<h1 align="center">A Passionate Full Stack Web Developer</h1>
 <img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30297150.jpg" alt="top"  />
 
-<h3 align="center">A passionate full Stack Web developer</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="Linkdin" width="40" height="40" />
