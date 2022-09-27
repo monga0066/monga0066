@@ -2,15 +2,15 @@
 <div margin="auto"><img  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="top"  /></div>
 
 <ul margin-top="20px">
-<li><p align="left">
+<li><h2 align="left">
 🔭 I’m currently working full stack web development at masai school
-</p></li>
-<li><p align="left">
+</h2></li>
+<li><h2 align="left">
 👨‍💻 All of my projects are available at <a href="monga0066.github.io"> monga0066.github.io</a>
-</p></li>
-<li><p align="left">
+</h2></li>
+<li><h2 align="left">
 📫 How to reach me <a href="#">rahulmonga600@gmail.com</a>
-</p></li>
+</h2></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="Linkdin" width="40" height="40" />
