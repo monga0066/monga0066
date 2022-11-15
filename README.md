@@ -13,7 +13,7 @@
 </h3></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
-<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="Linkdin" width="40" height="40" />
+<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" href="https://www.linkedin.com/in/rahul-kumar-761420234/" alt="Linkdin" width="40" height="40" />
 
 
 <h3 align="left">Languages and Tools:</h3>
