@@ -1,13 +1,15 @@
 
 
-<h2 align="center">Hi 👋 I'm Rahul Kumar</h2>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="400px"/>
+<h1 align="center">Hi 👋 I'm Rahul Kumar</h1>
 
+
+<h3 align="center">A Aspiring Web Developer from India</h3>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px"/>
 </h1>
-<h3 align="center">A passionate web developer from India</h3>
+
+
 # 💫 About Me:
 <h4>I am Rahul Kumar, a Passionate aspiring Full Stack Developer skilled in MERN stack & building my logic on Data Structure & algorithms as well as developing problem-solving and collaboration and teamwork skills, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute to my and the company's growth and progress.</h4>
 
@@ -42,10 +44,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monga0066&show_icons=true&locale=en&layout=compact&theme=dark" alt="raj4709267" />
  
  </p>
- <p align="center" >
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=monga0066&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
-
- </p>
+ 
  <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monga0066&theme=radical" width="48%" />
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=monga0066&show_icons=true&theme=radical" width="48%" />
