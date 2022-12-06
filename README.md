@@ -1,6 +1,7 @@
 
 
 <h2 align="center">Hi 👋 I'm Rahul Kumar</h2>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="400px"/>
 
 
 <h1 align="center">
