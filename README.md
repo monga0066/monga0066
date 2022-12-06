@@ -1,11 +1,11 @@
 
 
+<h2 align="center">Hi 👋 I'm Rahul Kumar</h2>
 
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px"/>
 </h1>
-<h2 align="center">Hi 👋 I'm Rahul Kumar</h2>
 
 # 💫 About Me:
 <h4>I am Rahul Kumar, a Passionate aspiring Full Stack Developer skilled in MERN stack & building my logic on Data Structure & algorithms as well as developing problem-solving and collaboration and teamwork skills, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute to my and the company's growth and progress.</h4>
@@ -40,5 +40,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=monga0066&theme=flag-india&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=monga0066&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
